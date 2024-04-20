@@ -7,11 +7,11 @@ The template repository for definehack2024
 Freshify
 
 ### Team Members
-[1.Krishna Paresh Raichura](kingof64sqrs)   
-[2.Siva Nithish Kumar D](sivanithishkumar)   
-[3.Sreejha](sreejha-jagadeesh)   
-[4.Rajesh](rajesh-05)   
-[5.Jaiguru](jai2992) 
+[1.Krishna Paresh Raichura]([kingof64sqrs](https://github.com/kingof64sqrs))   
+[2.Siva Nithish Kumar D]([sivanithishkumar](https://github.com/sivanithishkumar))   
+[3.Sreejha]([sreejha-jagadeesh](https://github.com/Sreejha-Jagadeesh))   
+[4.Rajesh]([rajesh-05](https://github.com/rajesh-05))   
+[5.Jaiguru]([jai2992](https://github.com/jai2992)) 
 
 ### Link to Project
 [Embed the live link of project](live_link)
