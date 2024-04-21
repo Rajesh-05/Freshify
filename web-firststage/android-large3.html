@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="english"
+  ><head
+    ><title>exported project</title
+    ><meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" /><meta
+      charset="utf-8" /><meta
+      property="twitter:card"
+      content="summary_large_image" /><style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }</style
+    ><style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }</style
+    ><link
+      rel="stylesheet"
+      href="https://unpkg.com/animate.css@4.1.1/animate.css" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css" /></head
+  ><body
+    ><link rel="stylesheet" href="./style.css" /><div
+      ><link href="./android-large3.css" rel="stylesheet" /><div
+        class="android-large3-container"
+        ><div class="android-large3-android-large3"
+          ><div class="android-large3-group557"
+            ><div class="android-large3-component2"
+              ><div class="android-large3-group"
+                ><div class="android-large3-group001"></div
+                ><div class="android-large3-group002"></div
+                ><div class="android-large3-group003"></div
+                ><div class="android-large3-group004"></div></div
+              ><img
+                src="public/external/rectangle3450i887-5ev-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle3450"
+              /><img
+                src="public/external/rectangle3451i887-axe-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle3451"
+              /><img
+                src="public/external/rectangle3452i887-g0s-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle3452"
+              /><span class="android-large3-text">A</span></div
+            ><div class="android-large3-component20"
+              ><div class="android-large3-group005"
+                ><div class="android-large3-group006"></div
+                ><div class="android-large3-group007"></div
+                ><div class="android-large3-group008"></div
+                ><div class="android-large3-group009"></div></div
+              ><img
+                src="public/external/rectangle3450i887-1djn-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345001"
+              /><img
+                src="public/external/rectangle3451i887-j5nm-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345101"
+              /><img
+                src="public/external/rectangle3452i887-e78o-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345201"
+              /><span class="android-large3-text01">A</span></div
+            ><div class="android-large3-component24"
+              ><div class="android-large3-group010"
+                ><div class="android-large3-group011"></div
+                ><div class="android-large3-group012"></div
+                ><div class="android-large3-group013"></div
+                ><div class="android-large3-group014"></div></div
+              ><img
+                src="public/external/rectangle3450i887-wfw5-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345002"
+              /><img
+                src="public/external/rectangle3451i887-tp6j-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345102"
+              /><img
+                src="public/external/rectangle3452i887-3pd-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345202"
+              /><span class="android-large3-text02">A</span></div
+            ><div class="android-large3-component8"
+              ><div class="android-large3-group015"
+                ><div class="android-large3-group016"></div
+                ><div class="android-large3-group017"></div
+                ><div class="android-large3-group018"></div
+                ><div class="android-large3-group019"></div></div
+              ><img
+                src="public/external/rectangle3450i887-6hid-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345003"
+              /><img
+                src="public/external/rectangle3451i887-pem-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345103"
+              /><img
+                src="public/external/rectangle3452i887-w2q-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345203"
+              /><span class="android-large3-text03">A</span></div
+            ><div class="android-large3-component12"
+              ><div class="android-large3-group020"
+                ><div class="android-large3-group021"></div
+                ><div class="android-large3-group022"></div
+                ><div class="android-large3-group023"></div
+                ><div class="android-large3-group024"></div></div
+              ><img
+                src="public/external/rectangle3450i887-5hik-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345004"
+              /><img
+                src="public/external/rectangle3451i887-qwzj-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345104"
+              /><img
+                src="public/external/rectangle3452i887-fmwl-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345204"
+              /><span class="android-large3-text04">A</span></div
+            ><div class="android-large3-component16"
+              ><div class="android-large3-group025"
+                ><div class="android-large3-group026"></div
+                ><div class="android-large3-group027"></div
+                ><div class="android-large3-group028"></div
+                ><div class="android-large3-group029"></div></div
+              ><img
+                src="public/external/rectangle3450i887-vva1q-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345005"
+              /><img
+                src="public/external/rectangle3451i887-b3bj-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345105"
+              /><img
+                src="public/external/rectangle3452i887-8pk-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345205"
+              /><span class="android-large3-text05">A</span></div
+            ><div class="android-large3-component5"
+              ><div class="android-large3-group030"
+                ><div class="android-large3-group031"></div
+                ><div class="android-large3-group032"></div
+                ><div class="android-large3-group033"></div
+                ><div class="android-large3-group034"></div></div
+              ><img
+                src="public/external/rectangle3450i887-hred-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345006"
+              /><img
+                src="public/external/rectangle3451i887-qbir-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345106"
+              /><img
+                src="public/external/rectangle3452i887-3uh-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345206"
+              /><span class="android-large3-text06">A</span></div
+            ><div class="android-large3-component21"
+              ><div class="android-large3-group035"
+                ><div class="android-large3-group036"></div
+                ><div class="android-large3-group037"></div
+                ><div class="android-large3-group038"></div
+                ><div class="android-large3-group039"></div></div
+              ><img
+                src="public/external/rectangle3450i887-d0g-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345007"
+              /><img
+                src="public/external/rectangle3451i887-xy2-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345107"
+              /><img
+                src="public/external/rectangle3452i887-si7-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345207"
+              /><span class="android-large3-text07">A</span></div
+            ><div class="android-large3-component25"
+              ><div class="android-large3-group040"
+                ><div class="android-large3-group041"></div
+                ><div class="android-large3-group042"></div
+                ><div class="android-large3-group043"></div
+                ><div class="android-large3-group044"></div></div
+              ><img
+                src="public/external/rectangle3450i887-4n2f-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345008"
+              /><img
+                src="public/external/rectangle3451i887-j3av-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345108"
+              /><img
+                src="public/external/rectangle3452i887-f9qa-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345208"
+              /><span class="android-large3-text08">A</span></div
+            ><div class="android-large3-component9"
+              ><div class="android-large3-group045"
+                ><div class="android-large3-group046"></div
+                ><div class="android-large3-group047"></div
+                ><div class="android-large3-group048"></div
+                ><div class="android-large3-group049"></div></div
+              ><img
+                src="public/external/rectangle3450i887-ny4f-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345009"
+              /><img
+                src="public/external/rectangle3451i887-b4z-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345109"
+              /><img
+                src="public/external/rectangle3452i887-a8ld-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345209"
+              /><span class="android-large3-text09">A</span></div
+            ><div class="android-large3-component13"
+              ><div class="android-large3-group050"
+                ><div class="android-large3-group051"></div
+                ><div class="android-large3-group052"></div
+                ><div class="android-large3-group053"></div
+                ><div class="android-large3-group054"></div></div
+              ><img
+                src="public/external/rectangle3450i887-vkip-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345010"
+              /><img
+                src="public/external/rectangle3451i887-ynaq-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345110"
+              /><img
+                src="public/external/rectangle3452i887-8qwu-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345210"
+              /><span class="android-large3-text10">A</span></div
+            ><div class="android-large3-component17"
+              ><div class="android-large3-group055"
+                ><div class="android-large3-group056"></div
+                ><div class="android-large3-group057"></div
+                ><div class="android-large3-group058"></div
+                ><div class="android-large3-group059"></div></div
+              ><img
+                src="public/external/rectangle3450i887-50kk-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345011"
+              /><img
+                src="public/external/rectangle3451i887-kqnh-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345111"
+              /><img
+                src="public/external/rectangle3452i887-1q2f-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345211"
+              /><span class="android-large3-text11">A</span></div
+            ><div class="android-large3-component6"
+              ><div class="android-large3-group060"
+                ><div class="android-large3-group061"></div
+                ><div class="android-large3-group062"></div
+                ><div class="android-large3-group063"></div
+                ><div class="android-large3-group064"></div></div
+              ><img
+                src="public/external/rectangle3450i887-343c-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345012"
+              /><img
+                src="public/external/rectangle3451i887-4yxz-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345112"
+              /><img
+                src="public/external/rectangle3452i887-foa-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345212"
+              /><span class="android-large3-text12">A</span></div
+            ><div class="android-large3-component22"
+              ><div class="android-large3-group065"
+                ><div class="android-large3-group066"></div
+                ><div class="android-large3-group067"></div
+                ><div class="android-large3-group068"></div
+                ><div class="android-large3-group069"></div></div
+              ><img
+                src="public/external/rectangle3450i887-jmk8-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345013"
+              /><img
+                src="public/external/rectangle3451i887-et9o-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345113"
+              /><img
+                src="public/external/rectangle3452i887-w1r5-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345213"
+              /><span class="android-large3-text13">A</span></div
+            ><div class="android-large3-component26"
+              ><div class="android-large3-group070"
+                ><div class="android-large3-group071"></div
+                ><div class="android-large3-group072"></div
+                ><div class="android-large3-group073"></div
+                ><div class="android-large3-group074"></div></div
+              ><img
+                src="public/external/rectangle3450i887-k96-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345014"
+              /><img
+                src="public/external/rectangle3451i887-oczh-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345114"
+              /><img
+                src="public/external/rectangle3452i887-zuvo-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345214"
+              /><span class="android-large3-text14">A</span></div
+            ><div class="android-large3-component10"
+              ><div class="android-large3-group075"
+                ><div class="android-large3-group076"></div
+                ><div class="android-large3-group077"></div
+                ><div class="android-large3-group078"></div
+                ><div class="android-large3-group079"></div></div
+              ><img
+                src="public/external/rectangle3450i887-a5ru-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345015"
+              /><img
+                src="public/external/rectangle3451i887-g7h-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345115"
+              /><img
+                src="public/external/rectangle3452i887-gzta-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345215"
+              /><span class="android-large3-text15">A</span></div
+            ><div class="android-large3-component14"
+              ><div class="android-large3-group080"
+                ><div class="android-large3-group081"></div
+                ><div class="android-large3-group082"></div
+                ><div class="android-large3-group083"></div
+                ><div class="android-large3-group084"></div></div
+              ><img
+                src="public/external/rectangle3450i887-1tr-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345016"
+              /><img
+                src="public/external/rectangle3451i887-mebq-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345116"
+              /><img
+                src="public/external/rectangle3452i887-hzpj-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345216"
+              /><span class="android-large3-text16">A</span></div
+            ><div class="android-large3-component18"
+              ><div class="android-large3-group085"
+                ><div class="android-large3-group086"></div
+                ><div class="android-large3-group087"></div
+                ><div class="android-large3-group088"></div
+                ><div class="android-large3-group089"></div></div
+              ><img
+                src="public/external/rectangle3450i887-h7ks-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345017"
+              /><img
+                src="public/external/rectangle3451i887-a4ro-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345117"
+              /><img
+                src="public/external/rectangle3452i887-ckfl-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345217"
+              /><span class="android-large3-text17">A</span></div
+            ><div class="android-large3-component7"
+              ><div class="android-large3-group090"
+                ><div class="android-large3-group091"></div
+                ><div class="android-large3-group092"></div
+                ><div class="android-large3-group093"></div
+                ><div class="android-large3-group094"></div></div
+              ><img
+                src="public/external/rectangle3450i887-hyw6-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345018"
+              /><img
+                src="public/external/rectangle3451i887-5lrm-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345118"
+              /><img
+                src="public/external/rectangle3452i887-8ivn-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345218"
+              /><span class="android-large3-text18">A</span></div
+            ><div class="android-large3-component23"
+              ><div class="android-large3-group095"
+                ><div class="android-large3-group096"></div
+                ><div class="android-large3-group097"></div
+                ><div class="android-large3-group098"></div
+                ><div class="android-large3-group099"></div></div
+              ><img
+                src="public/external/rectangle3450i887-zt5-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345019"
+              /><img
+                src="public/external/rectangle3451i887-pwq-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345119"
+              /><img
+                src="public/external/rectangle3452i887-2j4-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345219"
+              /><span class="android-large3-text19">A</span></div
+            ><div class="android-large3-component27"
+              ><div class="android-large3-group100"
+                ><div class="android-large3-group101"></div
+                ><div class="android-large3-group102"></div
+                ><div class="android-large3-group103"></div
+                ><div class="android-large3-group104"></div></div
+              ><img
+                src="public/external/rectangle3450i887-w6kq-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345020"
+              /><img
+                src="public/external/rectangle3451i887-6tz8-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345120"
+              /><img
+                src="public/external/rectangle3452i887-wpm9-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345220"
+              /><span class="android-large3-text20">A</span></div
+            ><div class="android-large3-component11"
+              ><div class="android-large3-group105"
+                ><div class="android-large3-group106"></div
+                ><div class="android-large3-group107"></div
+                ><div class="android-large3-group108"></div
+                ><div class="android-large3-group109"></div></div
+              ><img
+                src="public/external/rectangle3450i887-az1v-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345021"
+              /><img
+                src="public/external/rectangle3451i887-p51b-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345121"
+              /><img
+                src="public/external/rectangle3452i887-d0j-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345221"
+              /><span class="android-large3-text21">A</span></div
+            ><div class="android-large3-component15"
+              ><div class="android-large3-group110"
+                ><div class="android-large3-group111"></div
+                ><div class="android-large3-group112"></div
+                ><div class="android-large3-group113"></div
+                ><div class="android-large3-group114"></div></div
+              ><img
+                src="public/external/rectangle3450i887-cdm5-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345022"
+              /><img
+                src="public/external/rectangle3451i887-11j6-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345122"
+              /><img
+                src="public/external/rectangle3452i887-foht-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345222"
+              /><span class="android-large3-text22">A</span></div
+            ><div class="android-large3-component19"
+              ><div class="android-large3-group115"
+                ><div class="android-large3-group116"></div
+                ><div class="android-large3-group117"></div
+                ><div class="android-large3-group118"></div
+                ><div class="android-large3-group119"></div></div
+              ><img
+                src="public/external/rectangle3450i887-30x-200h.png"
+                alt="Rectangle3450I887"
+                class="android-large3-rectangle345023"
+              /><img
+                src="public/external/rectangle3451i887-h808-200h.png"
+                alt="Rectangle3451I887"
+                class="android-large3-rectangle345123"
+              /><img
+                src="public/external/rectangle3452i887-7xr-200h.png"
+                alt="Rectangle3452I887"
+                class="android-large3-rectangle345223"
+              /><span class="android-large3-text23">A</span></div
+            ></div
+          ><div class="android-large3-status-bar"
+            ><div class="android-large3-top-status-bar"
+              ><div class="android-large3-notch"></div
+              ><div class="android-large3-right-side"
+                ><div class="android-large3-battery"
+                  ><img
+                    src="public/external/rectanglei728-gkv7.svg"
+                    alt="RectangleI728"
+                    class="android-large3-rectangle" /><img
+                    src="public/external/combinedshapei728-eflf.svg"
+                    alt="CombinedShapeI728"
+                    class="android-large3-combined-shape" /><img
+                    src="public/external/rectanglei728-xo56.svg"
+                    alt="RectangleI728" /></div
+                ><img
+                  src="public/external/wifii728-viog.svg"
+                  alt="WifiI728"
+                  class="android-large3-wifi" /><img
+                  src="public/external/mobilesignali728-u7vo.svg"
+                  alt="MobileSignalI728"
+                  class="android-large3-mobile-signal" /></div
+              ><div class="android-large3-left-side"
+                ><img
+                  src="public/external/timelightbasei728-q6pl.svg"
+                  alt="TimeLightBaseI728"
+                  class="android-large3-time-light-base" /></div></div
+            ><div class="android-large3-left-title-right"
+              ><div class="android-large3-frame-left-accessory"></div
+              ><div
+                class="android-large3-frame-right-accessory"
+              ></div></div></div
+          ><div class="android-large3-status-bar1"
+            ><div class="android-large3-top-status-bar1"
+              ><div class="android-large3-notch1"></div
+              ><div class="android-large3-right-side1"
+                ><div class="android-large3-battery1"
+                  ><img
+                    src="public/external/rectanglei898-mqke.svg"
+                    alt="RectangleI898"
+                    class="android-large3-rectangle2" /><img
+                    src="public/external/combinedshapei898-muz.svg"
+                    alt="CombinedShapeI898"
+                    class="android-large3-combined-shape1" /><img
+                    src="public/external/rectanglei898-50lf.svg"
+                    alt="RectangleI898"
+                    class="android-large3-rectangle3" /></div
+                ><img
+                  src="public/external/wifii898-hiur.svg"
+                  alt="WifiI898"
+                  class="android-large3-wifi1" /><img
+                  src="public/external/mobilesignali898-vql7.svg"
+                  alt="MobileSignalI898"
+                  class="android-large3-mobile-signal1" /></div
+              ><div class="android-large3-left-side1"
+                ><img
+                  src="public/external/timelightbasei898-r8q9.svg"
+                  alt="TimeLightBaseI898"
+                  class="android-large3-time-light-base1" /></div></div
+            ><div class="android-large3-left-title-right1"
+              ><div class="android-large3-frame-left-accessory1"></div
+              ><div
+                class="android-large3-frame-right-accessory1"
+              ></div></div></div
+          ><span class="android-large3-text24"><span>Current Trip</span></span
+          ><div class="android-large3-navbar"
+            ><img
+              src="public/external/rectangle1i814-h3a-200h.png"
+              alt="Rectangle1I814"
+              class="android-large3-rectangle1" /><img
+              src="public/external/subtracti814-qdt7.svg"
+              alt="SubtractI814"
+              class="android-large3-subtract" /><img
+              src="public/external/ellipse6i814-9ghk-200h.png"
+              alt="Ellipse6I814"
+              class="android-large3-ellipse6" /><img
+              src="public/external/firrhomei814-f3o3.svg"
+              alt="firrhomeI814"
+              class="android-large3-firrhome" /><div
+              class="android-large3-group560"
+              ><img
+                src="public/external/vectori814-hg2.svg"
+                alt="VectorI814"
+                class="android-large3-vector" /><img
+                src="public/external/vectori814-8254.svg"
+                alt="VectorI814"
+                class="android-large3-vector1" /><img
+                src="public/external/vectori814-rt4y.svg"
+                alt="VectorI814"
+                class="android-large3-vector2" /><img
+                src="public/external/vectori814-swsp.svg"
+                alt="VectorI814"
+                class="android-large3-vector3" /></div
+            ><div class="android-large3-group559"
+              ><img
+                src="public/external/vectori814-b37.svg"
+                alt="VectorI814"
+                class="android-large3-vector4" /><img
+                src="public/external/vectori814-cf5i.svg"
+                alt="VectorI814"
+                class="android-large3-vector5" /><img
+                src="public/external/vectori814-5q4r.svg"
+                alt="VectorI814"
+                class="android-large3-vector6" /></div
+            ><div class="android-large3-group43"
+              ><img
+                src="public/external/vectori814-rtf.svg"
+                alt="VectorI814"
+                class="android-large3-vector7" /><img
+                src="public/external/vectori814-gr3.svg"
+                alt="VectorI814"
+                class="android-large3-vector8" /></div></div></div></div
+    ></div> </body
+></html>

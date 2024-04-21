@@ -1,0 +1,2684 @@
+.android-large4-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.android-large4-android-large4 {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+.android-large4-group558 {
+  top: 123px;
+  left: 52.1368408203125px;
+  width: 282.22607421875px;
+  height: 480px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-component3 {
+  top: 248px;
+  left: 0px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group001 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group002 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group003 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group004 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle3450 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle3451 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle3452 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component49 {
+  top: 330px;
+  left: 0px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group005 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group006 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group007 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group008 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group009 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345001 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345101 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345201 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text01 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component30 {
+  top: 412px;
+  left: 0px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group010 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group011 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group012 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group013 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group014 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345002 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345102 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345202 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text02 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component29 {
+  top: 164px;
+  left: 0px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group015 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group016 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group017 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group018 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group019 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345003 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345103 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345203 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text03 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component31 {
+  top: 82px;
+  left: 0px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group020 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group021 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group022 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group023 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group024 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345004 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345104 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345204 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text04 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component32 {
+  top: 0px;
+  left: 0px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group025 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group026 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group027 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group028 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group029 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345005 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345105 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345205 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text05 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component33 {
+  top: 248px;
+  left: 74px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group030 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group031 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group032 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group033 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group034 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345006 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345106 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345206 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text06 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component34 {
+  top: 330px;
+  left: 74px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group035 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group036 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group037 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group038 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group039 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345007 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345107 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345207 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text07 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component35 {
+  top: 412px;
+  left: 74px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group040 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group041 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group042 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group043 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group044 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345008 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345108 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345208 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text08 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component36 {
+  top: 164px;
+  left: 77px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group045 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group046 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group047 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group048 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group049 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345009 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345109 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345209 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text09 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component52 {
+  top: 82px;
+  left: 77px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group050 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group051 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group052 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group053 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group054 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345010 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345110 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345210 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text10 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component38 {
+  top: 0px;
+  left: 77px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group055 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group056 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group057 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group058 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group059 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345011 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345111 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345211 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text11 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component39 {
+  top: 248px;
+  left: 148px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group060 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group061 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group062 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group063 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group064 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345012 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345112 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345212 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text12 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component28 {
+  top: 330px;
+  left: 148px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group065 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group066 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group067 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group068 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group069 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345013 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345113 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345213 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text13 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component41 {
+  top: 412px;
+  left: 148px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group070 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group071 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group072 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group073 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group074 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345014 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345114 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345214 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text14 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component51 {
+  top: 164px;
+  left: 153px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group075 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group076 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group077 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group078 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group079 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345015 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345115 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345215 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text15 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component43 {
+  top: 82px;
+  left: 153px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group080 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group081 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group082 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group083 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group084 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345016 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345116 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345216 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text16 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component44 {
+  top: 0px;
+  left: 153px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group085 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group086 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group087 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group088 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group089 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345017 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345117 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345217 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text17 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component45 {
+  top: 248px;
+  left: 229px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group090 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group091 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group092 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group093 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group094 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345018 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345118 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345218 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text18 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component4 {
+  top: 330px;
+  left: 229px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group095 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group096 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group097 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group098 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group099 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345019 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345119 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345219 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text19 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component46 {
+  top: 412px;
+  left: 229px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group100 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group101 {
+  top: 5.459960460662842px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group102 {
+  top: 1.8122594356536865px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group103 {
+  top: 9.046038627624512px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group104 {
+  top: 5.675428867340088px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345020 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345120 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345220 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text20 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component47 {
+  top: 165px;
+  left: 229px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group105 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group106 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group107 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group108 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group109 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345021 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345121 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345221 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text21 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component50 {
+  top: 82px;
+  left: 229px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group110 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group111 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group112 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group113 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group114 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345022 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345122 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345222 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text22 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-component40 {
+  top: 0px;
+  left: 229px;
+  width: 53.2260856628418px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-group115 {
+  top: 32.27118682861328px;
+  left: 3.457627058029175px;
+  width: 24.20339012145996px;
+  height: 23.7426815032959px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group116 {
+  top: 5.460021495819092px;
+  left: 1.9062105417251587px;
+  width: 18.107358932495117px;
+  height: 17.193374633789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group117 {
+  top: 1.8123204708099365px;
+  left: 1.8874986171722412px;
+  width: 3.5570316314697266px;
+  height: 2.779493570327759px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group118 {
+  top: 9.046064376831055px;
+  left: 5.356380939483643px;
+  width: 17.099092483520508px;
+  height: 7.061894416809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-group119 {
+  top: 5.675525188446045px;
+  left: 3.7770519256591797px;
+  width: 15.870035171508789px;
+  height: 14.510149002075195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle345023 {
+  top: 34.576271057128906px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-radius: 4.1779656410217285px;
+}
+.android-large4-rectangle345123 {
+  top: 29.389829635620117px;
+  left: 3.457627058029175px;
+  width: 27px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-rectangle345223 {
+  top: 25.93220329284668px;
+  left: 0px;
+  width: 33px;
+  height: 6px;
+  position: absolute;
+  border-radius: 2.8813557624816895px;
+}
+.android-large4-text23 {
+  top: 43.94915008544922px;
+  left: 12.677966117858887px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.220338821411133px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: 13.254237174987793px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-status-bar {
+  top: 0px;
+  left: 2px;
+  width: 360px;
+  height: 94px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-top-status-bar {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 52px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-notch {
+  top: 0px;
+  left: 0px;
+  width: 0px;
+  height: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-right-side {
+  top: 20px;
+  left: 279px;
+  width: 66.66201782226562px;
+  height: 11.336018562316895px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-battery {
+  top: 0.0026854276657104492px;
+  left: 42.333984375px;
+  width: 24.32803726196289px;
+  height: 11.333333015441895px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 11px;
+  opacity: 0.35;
+  position: absolute;
+}
+.android-large4-combined-shape {
+  top: 3.666666030883789px;
+  left: 23px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.android-large4-rectangle1 {
+  top: 2px;
+  left: 2px;
+  width: 18px;
+  height: 7px;
+  position: absolute;
+}
+.android-large4-wifi {
+  top: 0px;
+  left: 22.02734375px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+}
+.android-large4-mobile-signal {
+  top: 0.33593738079071045px;
+  left: 0px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+}
+.android-large4-left-side {
+  top: 16px;
+  left: 3px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-time-light-base {
+  top: 0px;
+  left: 0px;
+  width: 54px;
+  height: 21px;
+  position: absolute;
+}
+.android-large4-left-title-right {
+  top: 52px;
+  left: -17px;
+  width: 393px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.android-large4-frame-left-accessory {
+  gap: 5px;
+  display: flex;
+  padding: 8px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+}
+.android-large4-frame-right-accessory {
+  gap: 10px;
+  display: flex;
+  padding: 8px 16px 8px 8px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  justify-content: flex-end;
+}
+.android-large4-text24 {
+  top: 73px;
+  left: 125px;
+  color: rgba(135, 199, 92, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18.43037986755371px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 23.95949363708496px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large4-navbar {
+  top: 703px;
+  left: -3px;
+  width: 364px;
+  height: 97.0666732788086px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.android-large4-rectangle1 {
+  top: 19.413333892822266px;
+  left: 0px;
+  width: 364px;
+  height: 78px;
+  position: absolute;
+  border-radius: 4.853333473205566px 4.853333473205566px 0 0;
+}
+.android-large4-subtract {
+  top: 19.41333770751953px;
+  left: 96.10091400146484px;
+  width: 87px;
+  height: 44px;
+  position: absolute;
+}
+.android-large4-ellipse6 {
+  top: 0px;
+  left: 111.62667083740234px;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+}
+.android-large4-firrhome {
+  top: 39.79733657836914px;
+  left: 47.56266784667969px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+}
+.android-large4-group560 {
+  top: 19.413333892822266px;
+  left: 130.0693359375px;
+  width: 21.35466766357422px;
+  height: 17.472000122070312px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-vector {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.android-large4-vector1 {
+  top: 4.85333776473999px;
+  left: 14.560003280639648px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.android-large4-vector2 {
+  top: 12.618671417236328px;
+  left: 1.9413361549377441px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.android-large4-vector3 {
+  top: 12.618671417236328px;
+  left: 14.560003280639648px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.android-large4-group559 {
+  top: 42.70933532714844px;
+  left: 212.5760040283203px;
+  width: 20.28308868408203px;
+  height: 17.571731567382812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 18px;
+  position: absolute;
+}
+.android-large4-vector5 {
+  top: 5.923752784729004px;
+  left: 10.14148235321045px;
+  width: 0px;
+  height: 4px;
+  position: absolute;
+}
+.android-large4-vector6 {
+  top: 13.6890869140625px;
+  left: 10.14148235321045px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.android-large4-group43 {
+  top: 42.70933532714844px;
+  left: 296.0533447265625px;
+  width: 15.530667304992676px;
+  height: 17.472000122070312px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large4-vector7 {
+  top: 11.647985458374023px;
+  left: 7.748603820800781e-7px;
+  width: 16px;
+  height: 6px;
+  position: absolute;
+}
+.android-large4-vector8 {
+  top: -0.000015497207641601562px;
+  left: 3.8826675415039062px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}

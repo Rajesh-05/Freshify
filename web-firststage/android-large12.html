@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="english"
+  ><head
+    ><title>exported project</title
+    ><meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" /><meta
+      charset="utf-8" /><meta
+      property="twitter:card"
+      content="summary_large_image" /><style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }</style
+    ><style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }</style
+    ><link
+      rel="stylesheet"
+      href="https://unpkg.com/animate.css@4.1.1/animate.css" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font" /><link
+      rel="stylesheet"
+      href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css" /></head
+  ><body
+    ><link rel="stylesheet" href="./style.css" /><div
+      ><link href="./android-large12.css" rel="stylesheet" /><div
+        class="android-large12-container"
+        ><div class="android-large12-android-large12"
+          ><div class="android-large12-group557"
+            ><div class="android-large12-component2"
+              ><div class="android-large12-group"
+                ><div class="android-large12-group001"></div
+                ><div class="android-large12-group002"></div
+                ><div class="android-large12-group003"></div
+                ><div class="android-large12-group004"></div></div
+              ><img
+                src="public/external/rectangle3450i185-9bbu-200h.png"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle3450"
+              /><img
+                src="public/external/rectangle3451i185-u30o-200h.png"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle3451"
+              /><img
+                src="public/external/rectangle3452i185-5se-200h.png"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle3452"
+              /><span class="android-large12-text">A</span></div
+            ><div class="android-large12-component20"
+              ><div class="android-large12-group005"
+                ><div class="android-large12-group006"></div
+                ><div class="android-large12-group007"></div
+                ><div class="android-large12-group008"></div
+                ><div class="android-large12-group009"></div></div
+              ><img
+                src="public/external/rectangle3450i185-x08u-200h.png"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345001"
+              /><img
+                src="public/external/rectangle3451i185-htfb-200h.png"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345101"
+              /><img
+                src="public/external/rectangle3452i185-hx4-200h.png"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345201"
+              /><span class="android-large12-text01">A</span></div
+            ><div class="android-large12-component24"
+              ><div class="android-large12-group010"
+                ><div class="android-large12-group011"></div
+                ><div class="android-large12-group012"></div
+                ><div class="android-large12-group013"></div
+                ><div class="android-large12-group014"></div></div
+              ><img
+                src="public/external/rectangle3450i185-95b-200h.png"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345002"
+              /><img
+                src="public/external/rectangle3451i185-5onu-200h.png"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345102"
+              /><img
+                src="public/external/rectangle3452i185-fivd-200h.png"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345202"
+              /><span class="android-large12-text02">A</span></div
+            ><div class="android-large12-component8"
+              ><div class="android-large12-group015"
+                ><div class="android-large12-group016"></div
+                ><div class="android-large12-group017"></div
+                ><div class="android-large12-group018"></div
+                ><div class="android-large12-group019"></div></div
+              ><img
+                src="public/external/rectangle3450i185-roey-200h.png"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345003"
+              /><img
+                src="public/external/rectangle3451i185-3oa9-200h.png"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345103"
+              /><img
+                src="public/external/rectangle3452i185-t3de-200h.png"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345203"
+              /><span class="android-large12-text03">A</span></div
+            ><div class="android-large12-component12"
+              ><div class="android-large12-group020"
+                ><div class="android-large12-group021"></div
+                ><div class="android-large12-group022"></div
+                ><div class="android-large12-group023"></div
+                ><div class="android-large12-group024"></div></div
+              ><img
+                src="public/external/rectangle3450i185-yel-200h.png"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345004"
+              /><img
+                src="public/external/rectangle3451i185-8jrh-200h.png"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345104"
+              /><img
+                src="public/external/rectangle3452i185-4jcr-200h.png"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345204"
+              /><span class="android-large12-text04">A</span></div
+            ><div class="android-large12-component16"
+              ><div class="android-large12-group025"
+                ><div class="android-large12-group026"></div
+                ><div class="android-large12-group027"></div
+                ><div class="android-large12-group028"></div
+                ><div class="android-large12-group029"></div></div
+              ><img
+                src="public/external/rectangle3450i185-jds-200h.png"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345005"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345105"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345205"
+              /><span class="android-large12-text05">A</span></div
+            ><div class="android-large12-component5"
+              ><div class="android-large12-group030"
+                ><div class="android-large12-group031"></div
+                ><div class="android-large12-group032"></div
+                ><div class="android-large12-group033"></div
+                ><div class="android-large12-group034"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345006"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345106"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345206"
+              /><span class="android-large12-text06">A</span></div
+            ><div class="android-large12-component21"
+              ><div class="android-large12-group035"
+                ><div class="android-large12-group036"></div
+                ><div class="android-large12-group037"></div
+                ><div class="android-large12-group038"></div
+                ><div class="android-large12-group039"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345007"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345107"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345207"
+              /><span class="android-large12-text07">A</span></div
+            ><div class="android-large12-component25"
+              ><div class="android-large12-group040"
+                ><div class="android-large12-group041"></div
+                ><div class="android-large12-group042"></div
+                ><div class="android-large12-group043"></div
+                ><div class="android-large12-group044"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345008"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345108"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345208"
+              /><span class="android-large12-text08">A</span></div
+            ><div class="android-large12-component9"
+              ><div class="android-large12-group045"
+                ><div class="android-large12-group046"></div
+                ><div class="android-large12-group047"></div
+                ><div class="android-large12-group048"></div
+                ><div class="android-large12-group049"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345009"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345109"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345209"
+              /><span class="android-large12-text09">A</span></div
+            ><div class="android-large12-component13"
+              ><div class="android-large12-group050"
+                ><div class="android-large12-group051"></div
+                ><div class="android-large12-group052"></div
+                ><div class="android-large12-group053"></div
+                ><div class="android-large12-group054"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345010"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345110"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345210"
+              /><span class="android-large12-text10">A</span></div
+            ><div class="android-large12-component17"
+              ><div class="android-large12-group055"
+                ><div class="android-large12-group056"></div
+                ><div class="android-large12-group057"></div
+                ><div class="android-large12-group058"></div
+                ><div class="android-large12-group059"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345011"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345111"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345211"
+              /><span class="android-large12-text11">A</span></div
+            ><div class="android-large12-component6"
+              ><div class="android-large12-group060"
+                ><div class="android-large12-group061"></div
+                ><div class="android-large12-group062"></div
+                ><div class="android-large12-group063"></div
+                ><div class="android-large12-group064"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345012"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345112"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345212"
+              /><span class="android-large12-text12">A</span></div
+            ><div class="android-large12-component22"
+              ><div class="android-large12-group065"
+                ><div class="android-large12-group066"></div
+                ><div class="android-large12-group067"></div
+                ><div class="android-large12-group068"></div
+                ><div class="android-large12-group069"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345013"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345113"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345213"
+              /><span class="android-large12-text13">A</span></div
+            ><div class="android-large12-component26"
+              ><div class="android-large12-group070"
+                ><div class="android-large12-group071"></div
+                ><div class="android-large12-group072"></div
+                ><div class="android-large12-group073"></div
+                ><div class="android-large12-group074"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345014"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345114"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345214"
+              /><span class="android-large12-text14">A</span></div
+            ><div class="android-large12-component10"
+              ><div class="android-large12-group075"
+                ><div class="android-large12-group076"></div
+                ><div class="android-large12-group077"></div
+                ><div class="android-large12-group078"></div
+                ><div class="android-large12-group079"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345015"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345115"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345215"
+              /><span class="android-large12-text15">A</span></div
+            ><div class="android-large12-component14"
+              ><div class="android-large12-group080"
+                ><div class="android-large12-group081"></div
+                ><div class="android-large12-group082"></div
+                ><div class="android-large12-group083"></div
+                ><div class="android-large12-group084"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345016"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345116"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345216"
+              /><span class="android-large12-text16">A</span></div
+            ><div class="android-large12-component18"
+              ><div class="android-large12-group085"
+                ><div class="android-large12-group086"></div
+                ><div class="android-large12-group087"></div
+                ><div class="android-large12-group088"></div
+                ><div class="android-large12-group089"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345017"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345117"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345217"
+              /><span class="android-large12-text17">A</span></div
+            ><div class="android-large12-component7"
+              ><div class="android-large12-group090"
+                ><div class="android-large12-group091"></div
+                ><div class="android-large12-group092"></div
+                ><div class="android-large12-group093"></div
+                ><div class="android-large12-group094"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345018"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345118"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345218"
+              /><span class="android-large12-text18">A</span></div
+            ><div class="android-large12-component23"
+              ><div class="android-large12-group095"
+                ><div class="android-large12-group096"></div
+                ><div class="android-large12-group097"></div
+                ><div class="android-large12-group098"></div
+                ><div class="android-large12-group099"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345019"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345119"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345219"
+              /><span class="android-large12-text19">A</span></div
+            ><div class="android-large12-component27"
+              ><div class="android-large12-group100"
+                ><div class="android-large12-group101"></div
+                ><div class="android-large12-group102"></div
+                ><div class="android-large12-group103"></div
+                ><div class="android-large12-group104"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345020"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345120"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345220"
+              /><span class="android-large12-text20">A</span></div
+            ><div class="android-large12-component11"
+              ><div class="android-large12-group105"
+                ><div class="android-large12-group106"></div
+                ><div class="android-large12-group107"></div
+                ><div class="android-large12-group108"></div
+                ><div class="android-large12-group109"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345021"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345121"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345221"
+              /><span class="android-large12-text21">A</span></div
+            ><div class="android-large12-component15"
+              ><div class="android-large12-group110"
+                ><div class="android-large12-group111"></div
+                ><div class="android-large12-group112"></div
+                ><div class="android-large12-group113"></div
+                ><div class="android-large12-group114"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345022"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345122"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345222"
+              /><span class="android-large12-text22">A</span></div
+            ><div class="android-large12-component19"
+              ><div class="android-large12-group115"
+                ><div class="android-large12-group116"></div
+                ><div class="android-large12-group117"></div
+                ><div class="android-large12-group118"></div
+                ><div class="android-large12-group119"></div></div
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3450I185"
+                class="android-large12-rectangle345023"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3451I185"
+                class="android-large12-rectangle345123"
+              /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="Rectangle3452I185"
+                class="android-large12-rectangle345223"
+              /><span class="android-large12-text23">A</span></div
+            ></div
+          ><div class="android-large12-status-bar"
+            ><div class="android-large12-top-status-bar"
+              ><div class="android-large12-notch"></div
+              ><div class="android-large12-right-side"
+                ><div class="android-large12-battery"
+                  ><img
+                    src="https://play.teleporthq.io/static/svg/default-img.svg"
+                    alt="RectangleI185"
+                    class="android-large12-rectangle" /><img
+                    src="https://play.teleporthq.io/static/svg/default-img.svg"
+                    alt="CombinedShapeI185"
+                    class="android-large12-combined-shape" /><img
+                    src="https://play.teleporthq.io/static/svg/default-img.svg"
+                    alt="RectangleI185" /></div
+                ><img
+                  src="https://play.teleporthq.io/static/svg/default-img.svg"
+                  alt="WifiI185"
+                  class="android-large12-wifi" /><img
+                  src="https://play.teleporthq.io/static/svg/default-img.svg"
+                  alt="MobileSignalI185"
+                  class="android-large12-mobile-signal" /></div
+              ><div class="android-large12-left-side"
+                ><img
+                  src="https://play.teleporthq.io/static/svg/default-img.svg"
+                  alt="TimeLightBaseI185"
+                  class="android-large12-time-light-base" /></div></div
+            ><div class="android-large12-left-title-right"
+              ><div class="android-large12-frame-left-accessory"></div
+              ><div
+                class="android-large12-frame-right-accessory"
+              ></div></div></div
+          ><div class="android-large12-status-bar1"
+            ><div class="android-large12-top-status-bar1"
+              ><div class="android-large12-notch1"></div
+              ><div class="android-large12-right-side1"
+                ><div class="android-large12-battery1"
+                  ><img
+                    src="https://play.teleporthq.io/static/svg/default-img.svg"
+                    alt="RectangleI185"
+                    class="android-large12-rectangle2" /><img
+                    src="https://play.teleporthq.io/static/svg/default-img.svg"
+                    alt="CombinedShapeI185"
+                    class="android-large12-combined-shape1" /><img
+                    src="https://play.teleporthq.io/static/svg/default-img.svg"
+                    alt="RectangleI185"
+                    class="android-large12-rectangle3" /></div
+                ><img
+                  src="https://play.teleporthq.io/static/svg/default-img.svg"
+                  alt="WifiI185"
+                  class="android-large12-wifi1" /><img
+                  src="https://play.teleporthq.io/static/svg/default-img.svg"
+                  alt="MobileSignalI185"
+                  class="android-large12-mobile-signal1" /></div
+              ><div class="android-large12-left-side1"
+                ><img
+                  src="https://play.teleporthq.io/static/svg/default-img.svg"
+                  alt="TimeLightBaseI185"
+                  class="android-large12-time-light-base1" /></div></div
+            ><div class="android-large12-left-title-right1"
+              ><div class="android-large12-frame-left-accessory1"></div
+              ><div
+                class="android-large12-frame-right-accessory1"
+              ></div></div></div
+          ><span class="android-large12-text24"><span>Current Trip</span></span
+          ><div class="android-large12-navbar"
+            ><img
+              src="public/external/rectangle1i185-a98d-200h.png"
+              alt="Rectangle1I185"
+              class="android-large12-rectangle1" /><img
+              src="public/external/subtracti185-3icp.svg"
+              alt="SubtractI185"
+              class="android-large12-subtract" /><img
+              src="public/external/ellipse6i185-xtw3-200h.png"
+              alt="Ellipse6I185"
+              class="android-large12-ellipse6" /><img
+              src="public/external/firrhomei185-jyv.svg"
+              alt="firrhomeI185"
+              class="android-large12-firrhome" /><div
+              class="android-large12-group560"
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="VectorI185"
+                class="android-large12-vector" /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="VectorI185"
+                class="android-large12-vector1" /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="VectorI185"
+                class="android-large12-vector2" /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="VectorI185"
+                class="android-large12-vector3" /></div
+            ><div class="android-large12-group559"
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="VectorI185"
+                class="android-large12-vector4" /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="VectorI185"
+                class="android-large12-vector5" /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="VectorI185"
+                class="android-large12-vector6" /></div
+            ><div class="android-large12-group43"
+              ><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="VectorI185"
+                class="android-large12-vector7" /><img
+                src="https://play.teleporthq.io/static/svg/default-img.svg"
+                alt="VectorI185"
+                class="android-large12-vector8" /></div></div></div></div
+    ></div> </body
+></html>

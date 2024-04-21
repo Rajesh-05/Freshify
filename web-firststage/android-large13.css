@@ -1,0 +1,69 @@
+.android-large13-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.android-large13-android-large13 {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+.android-large13-freshify12 {
+  top: 215px;
+  left: 45px;
+  width: 271px;
+  height: 271px;
+  position: absolute;
+}
+.android-large13-text {
+  top: 400px;
+  left: 88px;
+  color: rgba(135, 199, 92, 1);
+  height: auto;
+  position: absolute;
+  font-size: 39.09162139892578px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large13-text2 {
+  top: 459px;
+  left: 83px;
+  color: rgba(135, 199, 92, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 479px) {
+  .android-large13-freshify12 {
+    top: 219px;
+    left: 92px;
+  }
+  .android-large13-text {
+    top: 404px;
+    left: 135px;
+  }
+  .android-large13-text2 {
+    top: 463px;
+    left: 130px;
+  }
+}
