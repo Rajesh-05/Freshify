@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div className="App">
     <Router >
-      <Routes basename="/">
+      <Routes basename="/Extraterrestrial.git">
         <Route path="/" element={<Main />} />
         <Route path="/home" element={<Home />} />
       </Routes>
