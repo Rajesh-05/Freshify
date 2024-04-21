@@ -9,24 +9,21 @@ const AppBar = () => {
   return (
     <Navbar expand="xl" >
       <Container>
-        <Navbar.Brand as={Link} to="/"><h2 className='my-gradient-text'>FusionHub</h2></Navbar.Brand>
+        <Navbar.Brand as={Link} to="/"><h2>FRESHIFY</h2></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse className='justify-content-end' id="basic-navbar-nav">
+        <Navbar.Collapse className='justify-content-start' id="basic-navbar-nav">
           <Nav variant="underline" defaultActiveKey="/home">
             <Nav.Item>
-              <Nav.Link as={Link} to="/" className={ 'text-light fw-bold'}>Home</Nav.Link>
+              <Nav.Link as={Link} to="/home" className={ 'text-light fw-bold'}>Home</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link as={Link} to="/store" className={ 'text-light fw-bold'}>Store</Nav.Link>
+              <Nav.Link as={Link} to="/trips" className={ 'text-light fw-bold'}>Trips</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link as={Link} to="/foodcourt" className={ 'text-light fw-bold'}>Food Court</Nav.Link>
+              <Nav.Link as={Link} to="/warning" className={ 'text-light fw-bold'}>Warning</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link as={Link} to="/saloon" className={ 'text-light fw-bold'}>Saloon</Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link as={Link} to="/cart" className={ 'text-light fw-bold'}>Cart</Nav.Link>
+              <Nav.Link as={Link} to="/support" className={ 'text-light fw-bold'}>Support</Nav.Link>
             </Nav.Item>
           </Nav>
         </Navbar.Collapse>
