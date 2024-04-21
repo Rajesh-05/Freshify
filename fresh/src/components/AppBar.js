@@ -9,7 +9,7 @@ const AppBar = () => {
   return (
     <Navbar expand="xl" >
       <Container>
-        <Navbar.Brand as={Link} to="/"><h2>FRESHIFY</h2></Navbar.Brand>
+        <Navbar.Brand as={Link} to="/"><h2 style={{color:"#87C75C"}}>FRESHIFY</h2></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse className='justify-content-start' id="basic-navbar-nav">
           <Nav variant="underline" defaultActiveKey="/home">
