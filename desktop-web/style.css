@@ -1,9 +1,7 @@
-element-styles {
-    display: inline-block;
-    width: 576px;
- }
- body{
+
+body{
     padding: 0;
+    margin: 0px;
  }
  .freshify-tagline-style {
     flex: 0 0 auto;
@@ -26,8 +24,9 @@ element-styles {
     align-items: center;
     justify-content: center;
     min-width: 576px;
-    
-    border: none;
+    border: none;    
+    overflow-x: hidden;
+    overflow-y: hidden;
  }
  
     
