@@ -11,6 +11,12 @@ function Main() {
     const handleSelect = (eventKey) => {
       setSelectedOption(eventKey);
     };
+    const [value, setValue] = useState('');
+
+  const handleChange = (e) => {
+    const inputValue = parseInt(e.target.value, 10);
+    setValue(isNaN(inputValue) ? '' : inputValue);
+  };
   return (
     <Container style={{ minWidth: '500px' }} fluid className='primary m-0 p-0 vh-200 vw-100 position-relative'>
       <AppBar className="position-absolute top-0 z-1" />
@@ -19,7 +25,7 @@ function Main() {
           <Row >
             <Col className='ms-5 mt-3'>
               <div style={{ textAlign: 'start', color: '#87C75C', fontSize: '28px', fontFamily: 'Poppins', fontWeight: '500', lineHeight: '29px', wordWrap: 'break-word' }}>Vehicles</div>
-              <Row className='mr-3 mt-3'>
+              <Row md={3} md={7} className='mr-3 mt-3'>
                 <Col>
                   <div style={{ width: '100%', height: '200px', background: 'linear-gradient(180deg, rgba(98, 98, 98, 0.5) 0%, rgba(217, 217, 217, 0.25) 100%)', borderRadius: '18px', border: '1.5px solid rgba(255, 255, 255, 0.5)', backdropFilter: 'blur(11px)' }}>
                     <Row className='p-2 ' style={{display:'flex', justifyContent:''}}>
@@ -42,7 +48,7 @@ function Main() {
                 <div style={{ width: '100%', height: '200px', background: 'linear-gradient(180deg, rgba(98, 98, 98, 0.5) 0%, rgba(217, 217, 217, 0.25) 100%)', borderRadius: '18px', border: '1.5px solid rgba(255, 255, 255, 0.5)', backdropFilter: 'blur(11px)' }}>
                     <Row className='p-2 ' style={{display:'flex', justifyContent:''}}>
                         <Col xs={12} className='mb-2 ms-2 '>
-                            <div style={{width: '100%', height: '100%', color: 'white', fontSize: 13.26, fontFamily: 'Poppins', fontWeight: '400', wordWrap: 'break-word'}}>Bolero Puckup<br/>(TN41 2992)</div>
+                        <div style={{width: '100%', height: '100%', color: 'white', fontSize: 11.26, fontFamily: 'Poppins', fontWeight: '400', wordWrap: 'break-word'}}>Mahendra Maximo<br/>(TN41 2993)</div>
                         </Col>
                         <Col xs={12} className='mb-3'>
                             <img style={{width: '100%', height: '100%'}} src="images/car-1.png" />
@@ -61,7 +67,7 @@ function Main() {
                 <div style={{ width: '100%', height: '200px', background: 'linear-gradient(180deg, rgba(98, 98, 98, 0.5) 0%, rgba(217, 217, 217, 0.25) 100%)', borderRadius: '18px', border: '1.5px solid rgba(255, 255, 255, 0.5)', backdropFilter: 'blur(11px)' }}>
                     <Row className='p-2 ' style={{display:'flex', justifyContent:''}}>
                         <Col xs={12} className='mb-2 ms-2 '>
-                            <div style={{width: '100%', height: '100%', color: 'white', fontSize: 13.26, fontFamily: 'Poppins', fontWeight: '400', wordWrap: 'break-word'}}>Bolero Puckup<br/>(TN41 2992)</div>
+                        <div style={{width: '100%', height: '100%', color: 'white', fontSize: 11.26, fontFamily: 'Poppins', fontWeight: '400', wordWrap: 'break-word'}}>Ford Pickup<br/>(TN41 2994)</div>
                         </Col>
                         <Col xs={12} className='mb-3'>
                             <img style={{width: '100%', height: '100%'}} src="images/car-1.png" />
@@ -80,7 +86,7 @@ function Main() {
                 <div style={{ width: '100%', height: '200px', background: 'linear-gradient(180deg, rgba(98, 98, 98, 0.5) 0%, rgba(217, 217, 217, 0.25) 100%)', borderRadius: '18px', border: '1.5px solid rgba(255, 255, 255, 0.5)', backdropFilter: 'blur(11px)' }}>
                     <Row className='p-2 ' style={{display:'flex', justifyContent:''}}>
                         <Col xs={12} className='mb-2 ms-2 '>
-                            <div style={{width: '100%', height: '100%', color: 'white', fontSize: 13.26, fontFamily: 'Poppins', fontWeight: '400', wordWrap: 'break-word'}}>Bolero Puckup<br/>(TN41 2992)</div>
+                            <div style={{width: '100%', height: '100%', color: 'white', fontSize: 11.26, fontFamily: 'Poppins', fontWeight: '400', wordWrap: 'break-word'}}>Ford Pickup<br/>(TN41 2994)</div>
                         </Col>
                         <Col xs={12} className='mb-3'>
                             <img style={{width: '100%', height: '100%'}} src="images/car-1.png" />
@@ -175,8 +181,20 @@ function Main() {
       </Dropdown.Menu>
     </Dropdown>
                     </Col>
-                    <Col xs={12}>
-                        <div style={{width:"10%",marginRight:"-300px",background: '#459444', borderRadius: 12.61, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 15.76, display: 'inline-flex'}}>
+                    <Col style={{width: " 300px", height:"50px",display:"flex"}}  xs={12}>
+                        <div style={{marginLeft:"-965px" , width:"300px" , height:"50px",marginTop:"-30px"}}>
+                        <input 
+                        style={{width:"300px",height:"50px",borderRadius:"8px"}}
+                            type="number"
+                            value={value}
+                            onChange={handleChange}
+                            placeholder="Travelling Time"
+                        />   
+                        </div>
+                                             
+                    </Col>
+                    <Col style={{marginBottom:"100px"}} xs={12}>
+                        <div style={{marginLeft:"355px" ,width:"10%",background: '#459444', borderRadius: 12.61, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 15.76, display: 'inline-flex'}}>
                         <div style={{width: '100%', textAlign: 'center', color: 'white', fontSize: 25.21, fontFamily: 'Noto Sans', fontWeight: '400'}}>Go</div>
                         </div>
                     </Col>
