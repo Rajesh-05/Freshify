@@ -1,0 +1,32 @@
+
+body{
+    padding: 0;
+    margin: 0px;
+ }
+ .freshify-tagline-style {
+    flex: 0 0 auto;
+    font: 300 30px Poppins, sans-serif;
+    color: rgba(135, 199, 92, 1);
+    white-space: pre-wrap;
+ }
+ 
+ .freshify-title {
+    flex: 0 0 auto;
+    font: 800 78px Poppins, sans-serif;
+    color: rgba(135, 199, 92, 1);
+    white-space: pre-wrap;
+ }
+ 
+ .div-style-f4ea81a6 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 576px;
+    border: none;    
+    overflow-x: hidden;
+    overflow-y: hidden;
+ }
+ 
+    
