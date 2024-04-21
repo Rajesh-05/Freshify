@@ -32,6 +32,19 @@ Data Analytics: **Analyze data** on ethylene levels, environmental factors, and 
 
 Machine Learning Model: Integrate a **regression model** with an accuracy of **85%** for predictive analysis and optimization of the ripening process.
 
+### 3D model
+
+![Screenshot 2024-04-21 111342](https://github.com/kingof64sqrs/Extraterrestrial/assets/123295996/9cdccf36-4865-413e-a860-14cbdaba89a7)
+
+![Screenshot 2024-04-21 093306](https://github.com/kingof64sqrs/Extraterrestrial/assets/123295996/7d407d43-b9ef-4ab5-a8e4-8d2936e84b6b)
+
+![Screenshot 2024-04-21 111527](https://github.com/kingof64sqrs/Extraterrestrial/assets/123295996/b8c87577-9596-4777-b2e2-0c502e2d8305)
+
+![Screenshot 2024-04-21 112336](https://github.com/kingof64sqrs/Extraterrestrial/assets/123295996/672fcee9-4559-43fa-85a0-9af5a79a5c3c)
+
+![Screenshot 2024-04-21 112151](https://github.com/kingof64sqrs/Extraterrestrial/assets/123295996/ddb2b375-9713-4af6-b4e8-7faa0680233f)
+
+![Screenshot 2024-04-21 112526](https://github.com/kingof64sqrs/Extraterrestrial/assets/123295996/1875bb8a-a970-44c7-b5c4-ad992a3983ac)
 
 ### How to configure
 Instructions for setting up project
