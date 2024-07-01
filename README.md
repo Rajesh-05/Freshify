@@ -46,11 +46,6 @@ Machine Learning Model: Integrate a **regression model** with an accuracy of **8
 
 ![Screenshot 2024-04-21 112526](https://github.com/kingof64sqrs/Extraterrestrial/assets/123295996/1875bb8a-a970-44c7-b5c4-ad992a3983ac)
 
-### How to configure
-Instructions for setting up project
-
-### How to Run
-Instructions for running
 
 ### Other Links
 *[Figma design](https://www.figma.com/file/1PTf7BdSRo8cdrJRsGBCPt/Untitled?type=design&node-id=0%3A1&mode=design&t=R4DKmBDUk1bMcUYS-1)*
